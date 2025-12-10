@@ -74,7 +74,7 @@ export default async function Home() {
           <div className="flex items-center justify-center w-10 h-10 rounded-xl bg-yellow-100 dark:bg-yellow-900/30 text-yellow-600 dark:text-yellow-400">
             <Star className="w-5 h-5 fill-current" />
           </div>
-          <h2 className="text-3xl font-bold text-gray-900 text-primary dark:text-primary">
+          <h2 className="text-3xl font-bold text-primary">
             Top Rated of All Time
           </h2>
         </div>
