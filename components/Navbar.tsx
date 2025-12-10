@@ -18,7 +18,7 @@ export default function Navbar() {
             <div className="container mx-auto px-4 h-16 flex items-center justify-between gap-4">
                 <Link href="/" className="flex items-center space-x-2 shrink-0">
                     <Film className="w-6 h-6 text-primary" />
-                    <span className="font-bold text-xl hidden sm:inline-block bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
+                    <span className="font-bold text-xl hidden sm:inline-block bg-gradient-to-r from-primary to-purple-600 dark:to-purple-300 bg-clip-text text-transparent">
                         Movie Explorer
                     </span>
                 </Link>
